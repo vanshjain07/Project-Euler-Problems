@@ -37,18 +37,6 @@ Each folder contains the solution to the corresponding Project Euler problem.
 
 ---
 
-# 🧩 Problems Solved
-
-| Problem Number | Title | Status |
-|----------------|------|--------|
-| 1 | Multiples of 3 and 5 | ✅ |
-| 2 | Even Fibonacci Numbers | ✅ |
-| 7 | 10001st Prime | ✅ |
-
-*(This table will be updated as more problems are solved.)*
-
----
-
 # 💻 Language Used
 
 Currently solving problems primarily using:
