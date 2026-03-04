@@ -1,6 +1,6 @@
 # 🚀 Project Euler Solutions
 
-This repository contains my solutions to problems from **[Project Euler](https://projecteuler.net/)**.
+This repository contains our solutions to problems from **[Project Euler](https://projecteuler.net/)**.
 
 The goal of this repository is to:
 
@@ -10,11 +10,22 @@ The goal of this repository is to:
 - 🔄 Stay consistent by regularly solving new problems
 - 🤝 Help others who are exploring Project Euler problems
 
+This repository is maintained by:
+
+- **Vansh Jain**
+- **Atharv Dwivedi**
+
 ---
 
 # 📂 Repository Structure
 
 Each solution is uploaded according to the **problem number from the Project Euler archives**.
+
+For every problem, you may find **two different implementations**:
+- One solution by **Vansh**
+- One solution by **Atharv**
+
+This allows readers to compare different approaches to the same problem.
 
 Example structure:
 
@@ -22,22 +33,25 @@ Example structure:
 Project-Euler-Solutions
 │
 ├── Problem_0001
-│   └── solution.java
+│   ├── vansh_solution.java
+│   └── atharv_solution.java
 │
 ├── Problem_0002
-│   └── solution.java
+│   ├── vansh_solution.java
+│   └── atharv_solution.java
 │
 ├── Problem_0007
-│   └── solution.java
+│   ├── vansh_solution.java
+│   └── atharv_solution.java
 │
 └── README.md
 ```
 
-Each folder contains the solution to the corresponding Project Euler problem.
+Each folder contains the solutions to the corresponding Project Euler problem.
 
 ---
 
-# 💻 Language Used
+# 💻 Languages Used
 
 Currently solving problems primarily using:
 
@@ -56,6 +70,7 @@ This repository acts as:
 - A **learning log**
 - A **practice space for algorithms**
 - A **resource for other learners**
+- A way to explore **different approaches to the same problem**
 
 ---
 
@@ -69,7 +84,7 @@ The main goal of Project Euler is to develop **problem-solving ability and logic
 
 # 📈 Progress
 
-I will keep adding solutions as I progress through the **Project Euler archives**.
+We will keep adding solutions as we progress through the **Project Euler archives**.
 
 Consistency > Speed 🚀
 
@@ -77,7 +92,7 @@ Consistency > Speed 🚀
 
 # 🤝 Contributions
 
-This repository is mainly for **personal learning and consistency**, but suggestions or improvements are always welcome.
+This repository is mainly for **learning and consistency**, but suggestions or improvements are always welcome.
 
 If you have a better approach to any problem, feel free to open an **issue** or **pull request**.
 
