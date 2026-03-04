@@ -56,6 +56,7 @@ Each folder contains the solutions to the corresponding Project Euler problem.
 Currently solving problems primarily using:
 
 - **Java**
+- **C++**
 
 More languages may be added in the future.
 
